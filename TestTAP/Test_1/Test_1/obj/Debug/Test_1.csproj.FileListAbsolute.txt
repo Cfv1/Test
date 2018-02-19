@@ -1,0 +1,33 @@
+C:\Users\ww\Desktop\Тестовое задание\Test_1\Test_1\bin\Debug\Test_1.exe.config
+C:\Users\ww\Desktop\Тестовое задание\Test_1\Test_1\bin\Debug\Test_1.exe
+C:\Users\ww\Desktop\Тестовое задание\Test_1\Test_1\bin\Debug\Test_1.pdb
+C:\Users\ww\Desktop\Тестовое задание\Test_1\Test_1\obj\Debug\Test_1.csprojResolveAssemblyReference.cache
+C:\Users\ww\Desktop\Тестовое задание\Test_1\Test_1\obj\Debug\Test_1.csproj.CoreCompileInputs.cache
+C:\Users\ww\Desktop\Тестовое задание\Test_1\Test_1\obj\Debug\Test_1.exe
+C:\Users\ww\Desktop\Тестовое задание\Test_1\Test_1\obj\Debug\Test_1.pdb
+C:\Users\ww\Desktop\Тестовое задание\Test_2\Test_1\bin\Debug\Test_1.exe.config
+C:\Users\ww\Desktop\Тестовое задание\Test_2\Test_1\bin\Debug\Test_1.exe
+C:\Users\ww\Desktop\Тестовое задание\Test_2\Test_1\bin\Debug\Test_1.pdb
+C:\Users\ww\Desktop\Тестовое задание\Test_2\Test_1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ww\Desktop\Тестовое задание\Test_2\Test_1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ww\Desktop\Тестовое задание\Test_2\Test_1\obj\Debug\Test_1.csprojResolveAssemblyReference.cache
+C:\Users\ww\Desktop\Тестовое задание\Test_2\Test_1\obj\Debug\Test_1.csproj.CoreCompileInputs.cache
+C:\Users\ww\Desktop\Тестовое задание\Test_2\Test_1\obj\Debug\Test_1.exe
+C:\Users\ww\Desktop\Тестовое задание\Test_2\Test_1\obj\Debug\Test_1.pdb
+C:\Users\ww\Desktop\Тестовое задание\Test_2 - JSON.NET\Test_1\bin\Debug\Test_1.exe.config
+C:\Users\ww\Desktop\Тестовое задание\Test_2 - JSON.NET\Test_1\bin\Debug\Test_1.exe
+C:\Users\ww\Desktop\Тестовое задание\Test_2 - JSON.NET\Test_1\bin\Debug\Test_1.pdb
+C:\Users\ww\Desktop\Тестовое задание\Test_2 - JSON.NET\Test_1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ww\Desktop\Тестовое задание\Test_2 - JSON.NET\Test_1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ww\Desktop\Тестовое задание\Test_2 - JSON.NET\Test_1\obj\Debug\Test_1.csproj.CoreCompileInputs.cache
+C:\Users\ww\Desktop\Тестовое задание\Test_2 - JSON.NET\Test_1\obj\Debug\Test_1.exe
+C:\Users\ww\Desktop\Тестовое задание\Test_2 - JSON.NET\Test_1\obj\Debug\Test_1.pdb
+C:\Users\ww\Desktop\Test\Test_1\Test_1\bin\Debug\Test_1.exe.config
+C:\Users\ww\Desktop\Test\Test_1\Test_1\bin\Debug\Test_1.exe
+C:\Users\ww\Desktop\Test\Test_1\Test_1\bin\Debug\Test_1.pdb
+C:\Users\ww\Desktop\Test\Test_1\Test_1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ww\Desktop\Test\Test_1\Test_1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ww\Desktop\Test\Test_1\Test_1\obj\Debug\Test_1.csprojResolveAssemblyReference.cache
+C:\Users\ww\Desktop\Test\Test_1\Test_1\obj\Debug\Test_1.csproj.CoreCompileInputs.cache
+C:\Users\ww\Desktop\Test\Test_1\Test_1\obj\Debug\Test_1.exe
+C:\Users\ww\Desktop\Test\Test_1\Test_1\obj\Debug\Test_1.pdb
